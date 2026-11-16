@@ -108,6 +108,7 @@ IT Step Academy завершено, 6 місяців комерційної ро
 | [Django Blog API](https://github.com/meleudas/Django-blog-api) | REST API блогу: пости, вкладені коментарі, JWT і статистика. | ![Django](https://img.shields.io/badge/-Django-000?style=flat-square&logo=django&logoColor=f97316) |
 | [Finance Tracker](https://github.com/meleudas/finance-tracker) | Облік рахунків, категорій, транзакцій, бюджетів і звітів. | ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=f97316) ![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat-square&logo=prisma&logoColor=f97316) |
 | [Glass Orders API](https://github.com/meleudas/backend-trainee-project) | REST API для замовлень склопакетів: розміри й кількість на вході, площа та вартість на виході. | ![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat-square&logo=nestjs&logoColor=f97316) ![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat-square&logo=prisma&logoColor=f97316) |
+| [TerraTrend](https://github.com/Ki-mik0/TerraTrend) | Earth System Trend Detective для NASA Space Apps Challenge Dnipro 2026: каталог, радар і аналітика земних трендів. | ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=f97316) ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=f97316) |
 
 ## Контакт
 
