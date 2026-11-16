@@ -1,5 +1,7 @@
 <div align="center">
 
+![Maksym Lisovyi — FullStack Developer](./header.gif)
+
 [![Telegram](https://img.shields.io/badge/Telegram-%40Maklas4g-f97316?style=flat-square&logo=telegram&logoColor=white&labelColor=111111)](https://t.me/Maklas4g)
 [![Email](https://img.shields.io/badge/Email-makslis0307%40gmail.com-f97316?style=flat-square&logo=gmail&logoColor=white&labelColor=111111)](mailto:makslis0307@gmail.com)
 
