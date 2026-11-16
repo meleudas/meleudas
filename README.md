@@ -113,3 +113,14 @@ IT Step Academy завершено, 6 місяців комерційної ро
 ## Контакт
 
 [Telegram @Maklas4g](https://t.me/Maklas4g) · [makslis0307@gmail.com](mailto:makslis0307@gmail.com)
+
+## Аналітика
+
+<div align="center">
+
+![Активність на GitHub](https://github-readme-activity-graph.vercel.app/graph?username=meleudas&bg_color=000000&color=e5e5e5&line=f97316&point=f97316&area=true&hide_border=true&custom_title=Activity)
+
+![Мови](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meleudas&theme=transparent&title_color=f97316&text_color=e5e5e5&bg_color=000000&border_color=000000&icon_color=f97316)
+![Години комітів](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meleudas&theme=transparent&title_color=f97316&text_color=e5e5e5&bg_color=000000&border_color=000000&icon_color=f97316)
+
+</div>
